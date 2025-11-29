@@ -6,8 +6,6 @@ title = 'art portfolio'
 url = '/posts/artportfolio'
 +++
 
-TEST
-
 Here is some digital art projects I've done. Most of my work consists of character art, either from original stories or fanart.
 
 
