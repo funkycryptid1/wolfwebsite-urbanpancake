@@ -1,7 +1,7 @@
 +++
 date = '2025-09-17T13:29:44-04:00'
 draft = false
-title = 'Welcome'
+title = 'homepage'
 +++
 
 
