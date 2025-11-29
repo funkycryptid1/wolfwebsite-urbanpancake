@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Oct 2025 12:26:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A bit more research into the old web</title>
+      <link>http://localhost:1313/posts/blog2/</link>
+      <pubDate>Sat, 04 Oct 2025 12:26:33 -0400</pubDate>
+      <guid>http://localhost:1313/posts/blog2/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s something fascinating about low resolutions, anti-sleekness, and chunky buttons which draws me into a state of yearning. It might be the idea of freedom that every company seemed to have in the 00s that&amp;rsquo;s extremely intriguing to me, the fact that they could show off their product how they saw fit, instead of a pristine, furnished archetype that exists in every modern website. Where&amp;rsquo;s the fun? Why did it have to die for boring perfection? Among the very many eyesores that used to exist, clashing colors over clashing backgrounds, was freedom of expression that exists in very little doses today.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>writing portfolio</title>
+      <link>http://localhost:1313/posts/writingportfolio/</link>
+      <pubDate>Thu, 18 Sep 2025 15:32:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/writingportfolio/</guid>
+      <description>&lt;p&gt;Here are writings I&amp;rsquo;m proud of. I am a 2-time published author in one book of my own when I was 11 and a short story in an anthology of other students&amp;rsquo; work. Most of my stories are in the fantasy genre, since it is the one I am most interested in. Here&amp;rsquo;s a collection of different writings spanning from a screenplay I&amp;rsquo;m writing to other various stories:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;THE CURRENT SCREENPLAY&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>art portfolio</title>
+      <link>http://localhost:1313/posts/artportfolio/</link>
+      <pubDate>Thu, 18 Sep 2025 15:32:15 -0400</pubDate>
+      <guid>http://localhost:1313/posts/artportfolio/</guid>
+      <description>&lt;p&gt;TEST&lt;/p&gt;&#xA;&lt;p&gt;Here is some digital art projects I&amp;rsquo;ve done. Most of my work consists of character art, either from original stories or fanart.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve done multiple, mostly digital art projects, over the years. I&amp;rsquo;ve made characters as a part of a comic series which isn&amp;rsquo;t out yet (and to be honest, should&amp;rsquo;ve been by now) but I always held myself back due to self-doubt, procrastination, and fear of what the world might think or not think at all. But in truth, it is a personal project that doesn&amp;rsquo;t require acceptance or admittance from anyone else to exist. I could write a whole lot more on this, but that would be better for the blog pages. Without further ado, the first project -&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>portfolios</title>
+      <link>http://localhost:1313/posts/portfolios/</link>
+      <pubDate>Wed, 17 Sep 2025 13:57:40 -0400</pubDate>
+      <guid>http://localhost:1313/posts/portfolios/</guid>
+      <description>&lt;p&gt;Welcome to the portfolio page! Here is where you&amp;rsquo;ll find projects I&amp;rsquo;m proud of that do not necessarily align with computer science, and fall under more artistic endeavors. Not to say computer science can&amp;rsquo;t be an art, but y&amp;rsquo;know, I like to draw and write stories, too.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>blog posts</title>
+      <link>http://localhost:1313/posts/blogposts/</link>
+      <pubDate>Wed, 17 Sep 2025 13:29:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/blogposts/</guid>
+      <description>&lt;p&gt;Here are various blog posts ranging from computer science and art topics to random interests of mine.&lt;/p&gt;&#xA;&lt;p&gt;[Blog 1](/posts/blog1/)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nostalgia for an internet I never really experienced</title>
+      <link>http://localhost:1313/posts/blog1/</link>
+      <pubDate>Wed, 17 Sep 2025 13:29:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/blog1/</guid>
+      <description>&lt;p&gt;4:28 PM -&lt;/p&gt;&#xA;&lt;p&gt;Good afternoon, this post is going to be written probably a few days before the website will actually go up. Nonetheless, this will be the first blog post on my website.&lt;/p&gt;&#xA;&lt;p&gt;One of many things I can talk about is how I vaguely grew up in the time where the internet was largely unconquered and unrealized, meaning that no one knew how to take advantage of others yet through tactical marketing, algorithms, and overwhelming advertisements. I have hazy visions of what the internet used to be: artsy, loud, and honest with it&amp;rsquo;s post-90s early 2000&amp;rsquo;s aesthetics. Maybe those are more ideations of what once was and this website is kind of an attempt at having my own space in this world wide web. No one to tell me how it should be, just a place of my own that others can view.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>resume</title>
+      <link>http://localhost:1313/posts/resume/</link>
+      <pubDate>Wed, 17 Sep 2025 13:29:44 -0400</pubDate>
+      <guid>http://localhost:1313/posts/resume/</guid>
+      <description>&lt;p&gt;I see you&amp;rsquo;re accessing my resume, very cool, Mr./Mrs. Future Employer. Well here it is!&lt;/p&gt;&#xA;&lt;p&gt;Michael Wolf - &lt;a href=&#34;mailto:mwolfworkemail@aol.com&#34;&gt;mwolfworkemail@aol.com&lt;/a&gt; - 561-701-3365&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bachelor of Science, Network Security - Palm Beach State College (2025)&lt;/p&gt;&#xA;&lt;p&gt;Associate of Art, Film - Palm Beach State College (2022)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;MOST RECENT/CURRENT ROLE:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Substitute Teacher - Palm Beach County School District (2023-Present)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managed classrooms in accordance with the mainstay teacher’s instructions.&lt;/li&gt;&#xA;&lt;li&gt;Adapted to working in drastically different environments due to working at different schools.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;NOTABLE PROJECTS&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
